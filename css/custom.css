@@ -6,6 +6,10 @@ a {
 	text-decoration: none;
 	color: #000;
 }
+
+img {
+	border: 1px solid lightgrey;
+}
 /* Sections
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .section {
