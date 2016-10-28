@@ -7,6 +7,9 @@ img {
 	border: 1px solid lightgrey;
 }
 
+#padBottom {
+	padding-bottom: 10em;
+}
 /* Sections
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .section {
